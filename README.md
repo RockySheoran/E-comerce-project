@@ -111,28 +111,4 @@ We welcome contributions from the community! To contribute to ScrollMe, follow t
    git push origin feature-name
    ```
 
-7. **Open a pull request**: Provide a detailed description of your changes in the pull request template. Link to any relevant issues.
 
-### Guidelines
-
-- Ensure code quality by following consistent formatting and naming conventions.
-- Write clear and concise commit messages.
-- Test your changes thoroughly before submitting a pull request.
-
-## Code of Conduct
-
-We are committed to fostering a welcoming and harassment-free community. All participants are expected to adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md). Please treat others with respect and professionalism in all interactions.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-We appreciate your interest in ScrollMe and look forward to your contributions!
-
-## Community Discussion
-
-Join our Discord Server for community discussions, support, and collaboration!
-
-We appreciate your interest in ScrollMe and look forward to your contributions!
-
-Just replace https://discord.gg/w4nKprr5 with the actual link to your Discord server. Let me know if you need any further modifications!
