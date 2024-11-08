@@ -6,7 +6,6 @@ https://e-commerce-project-rs.netlify.app/
 ## Features
 
 - [ ] **Modern UI/UX**: Intuitive, responsive design for a seamless shopping experience.
-- [ ] **Product Management**: Admin interface for adding, updating, and removing products.
 - [x] **User Authentication**: Secure user registration, login, and JWT-based authentication.
 - [ ] **Search and Filters**: Search for products and apply filters based on categories, prices, and more.
 - [ ] **Shopping Cart**: Add, update, or remove items from the cart, with real-time calculations.
